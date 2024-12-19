@@ -9,3 +9,9 @@ Managing a large volume of loan applications effectively while minimizing the ri
 3. Which factors (such as loan purpose, employee length, or homeownership) impact loan performance?
 4. What states have the highest loan applications?
 5. How do metrics like DTI (Debt-to-Income) ratio and interest rates influence loan outcomes?
+## Questions
+1. How many total loan applications were received in a specified time period?  
+2. What percentage of loans are categorized as good vs. bad?   
+3. What are the top loan purposes driving applications?   
+4. How do demographic and geographic factors influence loan approval trends?    
+5. What is the impact of term duration (36 months vs. 60 months) on total applications?   
